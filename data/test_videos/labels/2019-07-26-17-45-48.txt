@@ -1,0 +1,4 @@
+0:01.350__0:06.612 person2 # Note background speaker at the begin
+0:07.425__0:08.977 person2 
+0:10.242__0:14.006 person0 # Note laugh at begin
+0:15.503__0:23.480 person1 # Note background speaker at the end
